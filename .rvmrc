@@ -1,0 +1,6 @@
+# This is how you use RVM
+#rvm list
+#rvm install ruby-1.9.2-p180
+#rvm list gemsets
+#rvm gemset create project_name
+rvm ruby-1.9.2-p290@not-so-stealth
